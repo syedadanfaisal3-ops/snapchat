@@ -1,0 +1,13 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+
+====================================================
+  SNAPCHAT LOGIN — CREDENTIALS CAPTURED
+====================================================
+  Time        : 2026-11-16 20:46:34
+  User/Email  : ahmed123
+  Password    : MySecret@2024
+====================================================
+  Victim is now being signed in -> you own the account.
+====================================================
+
